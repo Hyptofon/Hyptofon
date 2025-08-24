@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/8DDl.gif" alt="chaotic void banner">
+  <img src="assets/58TC.gif" alt="chaotic void banner">
 </p>
