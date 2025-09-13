@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-  <sub>monochrome only</sub>
+  <sub>Your life has gone out and will not be lit again.</sub>
 </p>
